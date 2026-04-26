@@ -3,6 +3,11 @@
 ## Paper & Hacks 20260519（火）
 Model Based Design using Matlab with LLM and MCP
 
+Workflows vs Agents for Code Translation, Henry Gray, Tom Yotam, Octavian Udrea
+https://arxiv.org/pdf/2512.14762v1
+
+
+
 Large Language Models for Computer-Aided Design: A Survey Licheng Zhang, Bach Le, Naveed Akhtar, Siew-Kei Lam, Tuan Ngo 
 https;//arxiv.com/abs/2505.08137
 
