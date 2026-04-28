@@ -2,8 +2,9 @@
 title: 英語(0) 一覧
 tags: 英語 小川メソッド DoCAP English
 author: kaizen_nagoya
-slide: false
 ---
+### The Qiita article cannot be updated due to system issues. Please refer to GitHub for the latest version.
+# English
 プログラミング言語は英単語からなっているものがある。
 
 そこで、英語の習得とプログラミング言語の習得を相似に構えると、
