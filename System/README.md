@@ -58,7 +58,7 @@ https://qiita.com/kaizen_nagoya/items/7528a22a14242d2d58a3
 Error一覧 error(0)
 https://qiita.com/kaizen_nagoya/items/48b6cbc8d68eae2c42b8
 
-++ Support(0)　
+C++ Support(0)　
 https://qiita.com/kaizen_nagoya/items/8720d26f762369a80514
 
 Coding(0) Rules, C, Secure, MISRA and so on
