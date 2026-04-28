@@ -2,8 +2,8 @@
 title: 小川清最終講義/最終講義(再)計画, Ethernet(100) 英語(100) 安全(100) 転職(53) SDV(5)
 tags: DoCAP 安全 OSEK ethernet 英語
 author: kaizen_nagoya
-slide: false
 ---
+### The Qiita article cannot be updated due to system issues. Please refer to GitHub for the latest version.
 普段、計画をたてないと誤解される私です。
 
 2025年２月から３月にかけて、小川清最終講義を動画配信で計画していました。
@@ -59,8 +59,7 @@ https://qiita.com/kaizen_nagoya/items/f83394e4916760e2bae1
 「標的型サイバー攻撃対策」では防げないかもしれない
 https://qiita.com/kaizen_nagoya/items/c4068bdc7b519f0ecab1
 
-## 1.2 SDV
-
+## 1.2 SDV/SDM
 Network Designed Vehicle: SDV(2)Software Defined Vehicleの本当の目標(goal)
 https://qiita.com/kaizen_nagoya/items/0d07e32299dcc040a89e
 
@@ -148,7 +147,6 @@ https://qiita.com/kaizen_nagoya/items/58113ac4b8e28ccbd16c
 https://qiita.com/kaizen_nagoya/items/4b40d8b8873aa7649a85
 
 ## 3.2 LLMを利用した自動指導システム
-
 MCP入門 〜面倒なことはAIエージェントにやらせよう〜 by からあげ を聞きながら
 https://qiita.com/kaizen_nagoya/items/54b648c838fae8d57e38
 【松尾研LLMコミュニティ】面倒なことはLLMにやらせよう "Beginning LLM"2024年10月17日 AI(9)
@@ -183,6 +181,15 @@ https://qiita.com/kaizen_nagoya/items/ce8a28d6072f340a9d59
 15:00-15:10 休憩
 15:10-15:30 「プロセスアセスメント事例紹介」 JAXA 片平真史
 15:30-17:00 パネル「なぜ日本がITで生き残れるか」 NSSLCサービス北野敏明
+
+## 第３回退官記念講演会 2030/2 or 3
+1) Robot
+2) LLM/MCP
+3) CAD/CAM/CAE
+4) OS unification
+5) Language unification
+6) Model Based Design
+7) Safety and Security
 
 # 前職
 水道局10年(1976,4-1986,3)を振り返る
