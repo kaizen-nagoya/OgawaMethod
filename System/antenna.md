@@ -3,7 +3,7 @@ title: Wi-Fi(0) 記事一覧, Ethernet(52) wireshark(35)
 tags: アンテナ 802.11 Wi-Fi ethernet Wireshark
 author: kaizen_nagoya
 ---
-### 
+### The Qiita article cannot be updated due to system issues. Please refer to GitHub for the latest version.
 # 無線網（Wi-Fi）空中線(antenna)(0) 一覧<評価~~3~~ 5>
 https://qiita.com/kaizen_nagoya/items/5e5464ac2b24bd4cd001
 
