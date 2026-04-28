@@ -1,10 +1,9 @@
-### The Qiita article cannot be updated due to system issues. Please refer to GitHub for the latest version.
-
 ---
 title: 一覧の一覧( The directory of directories of mine.) Qiita(100) coding(122) 色(26)
 tags: 一覧 Qiita DoCAP coding 色
 author: kaizen_nagoya
 ---
+### The Qiita article cannot be updated due to system issues. Please refer to GitHub for the latest version.
 # はじめに
 2019年は、１日３記事目標で書いていた。
 2020年は、３月に転職し、それ以降は３日に１記事も書けないでいる。お盆と、正月と連休だけは１日３記事かくようにしてる。
