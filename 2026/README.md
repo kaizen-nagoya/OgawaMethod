@@ -70,3 +70,6 @@ https://www.matlabexpo.com/jp/2026/agenda.html
 FPGAのMBD導入・普及に向けたコーポレート部門の取り組み
 
 三菱電機株式会社 新保 大介
+
+https://github.com/kaizen-nagoya/matlab
+
