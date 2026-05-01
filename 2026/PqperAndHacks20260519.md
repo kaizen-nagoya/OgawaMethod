@@ -27,6 +27,9 @@ Porting TOPPERS jsp for M16C/M32C. ( Making TOPPERS OSEK/VDX OS. (Training(UML, 
 Workflows vs Agents for Code Translation, Henry Gray, Tom Yotam, Octavian Udrea https://arxiv.org/pdf/2512.14762v1
 https://github.com/kaizen-nagoya/LLMmpc/blob/main/LLM/2026/WorkflowsVSAgents.md
 
+## motor
+
+
 ## CAD
 Large Language Models for Computer-Aided Design: A Survey Licheng Zhang, Bach Le, Naveed Akhtar, Siew-Kei Lam, Tuan Ngo https;//arxiv.com/abs/2505.08137
 
