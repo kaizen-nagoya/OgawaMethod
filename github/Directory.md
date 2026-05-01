@@ -27,3 +27,40 @@ https://github.com/kaizen-nagoya/SoftwareEngineering/tree/main/15288
 ## 5thGenStandard
 https://github.com/kaizen-nagoya/SoftwareEngineering/tree/main/5thGenStandard
 
+# Matlab
+## CAD
+https://github.com/kaizen-nagoya/matlab/tree/main/CAD
+## ModelBasedDesign
+https://github.com/kaizen-nagoya/matlab/tree/main/ModelBasedDesign
+## motor
+https://github.com/kaizen-nagoya/matlab/tree/main/motor
+# Structure_programming
+https://github.com/kaizen-nagoya/structure_programming
+## Day1
+## Day2
+## Day3
+## RISK
+https://github.com/kaizen-nagoya/structure_programming/tree/main/RISK
+## 2025
+https://github.com/kaizen-nagoya/structure_programming/tree/main/2025
+## The_C_Puzzle_Book
+https://github.com/kaizen-nagoya/structure_programming/tree/main/The_C_Puzzle_Book
+## UML
+https://github.com/kaizen-nagoya/structure_programming/tree/main/UML
+## training
+https://github.com/kaizen-nagoya/structure_programming/tree/main/training
+# Reference
+https://github.com/kaizen-nagoya/References
+
+2026Safety
+https://github.com/kaizen-nagoya/References/blob/main/2026safety.md
+
+
+
+# Karaage
+https://github.com/kaizen-nagoya/karaage
+## BroadCast
+https://github.com/kaizen-nagoya/karaage/tree/main/broadcast
+
+
+
