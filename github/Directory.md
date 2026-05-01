@@ -49,6 +49,14 @@ https://github.com/kaizen-nagoya/structure_programming/tree/main/The_C_Puzzle_Bo
 https://github.com/kaizen-nagoya/structure_programming/tree/main/UML
 ## training
 https://github.com/kaizen-nagoya/structure_programming/tree/main/training
+
+# probability_and_statistics
+https://github.com/kaizen-nagoya/probability_and_statistics
+## biological_science
+https://github.com/kaizen-nagoya/probability_and_statistics/tree/master/biological_science
+
+##
+
 # Reference
 https://github.com/kaizen-nagoya/References
 
