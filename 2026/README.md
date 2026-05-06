@@ -1,6 +1,6 @@
 # To Do 2026 05/06
 
-## Paper & Hacks 20260519（火）
+## Paper & Hacks 20260519（火）【Paper&Hacks #84】
 ### BackGround
 #### Tool porting
 network emulator for host machine. Porting from PC-8801 to PC-9801.
